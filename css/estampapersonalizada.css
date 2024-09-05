@@ -1,0 +1,78 @@
+.navbar {
+    width: 100%;
+}
+.linkestilo{
+    background-color: #F7D23E;
+}
+footer {
+    width: 100%;
+    min-width: 40px;
+    clear: both;
+}
+.estampa {
+    background-color: #212420;
+}
+.titulo{
+    color: white;
+}
+.q1{
+    width: 34%;
+    height: 35%;
+    background-color: #1E1E1E;
+    border-radius: 5%;
+}
+
+.importe{
+    color: white;
+}
+.contato{
+    color: white;
+}
+
+
+.q2{
+    width: 20%;
+    height: 10%;
+    background-color: #063778;
+}
+
+
+.botao-importar:active, .botao-importar:hover{
+    border: none
+}
+.cartao{
+    width: 20em;
+    height: 22em;
+    background-color: #063778; 
+}
+.butao{
+    background-color: #FF7B2A;
+}
+.botao-link{
+    background-color: #FF7B2A;
+}
+.botao-link:hover{
+    background-color: #ff7c2ad0;
+}
+.borda-bottom{
+    border-bottom: 9px solid #FF7B2A;
+    
+}
+.borda-top{
+    border-top: 9px solid white;
+}
+.background-card{
+    border-radius: 32px;
+    width: 80%;
+    background-color: #454242;
+}
+.img-camisa.png{
+    background-color: #1E1E1E;
+    
+}
+.botoaes{
+    background-color: #FF7B2A;
+}
+a{
+    text-decoration: none;
+}

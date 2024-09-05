@@ -1,0 +1,49 @@
+.navbar {
+    width: 100%;
+}
+/*----------------------footer------------*/
+footer {
+    width: 100%;
+    min-width: 40px;
+    clear: both;
+}
+#maisvendidos{
+    background-color: #212420;
+}
+.linkestilo{
+    background-color: #F7D23E;
+}
+
+
+.btn {
+    background-color: #509333;
+    width: 170px;
+    height: 31px;
+    font-weight: bold;
+}
+.card-body {
+    background-color: #FF7B2A;
+    
+}
+.vendidos{
+    color: white;
+}
+.frete{
+    background-color: #F7D23E;
+}
+.caminhao{
+    text-align: right;
+}
+.cartao {
+    text-align: left;
+}
+.secao {
+    height: 40px;
+}
+.lupa {
+    width: 40px;
+    height: 40px;
+}
+a{
+    text-decoration: none;
+}

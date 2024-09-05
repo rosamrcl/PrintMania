@@ -1,0 +1,61 @@
+.navbar {
+    width: 100%;
+}
+.linkestilo{
+    background-color: #F7D23E;
+}
+#compra{
+    background-color: #212420;
+}
+
+/*----------------------footer------------*/
+footer {
+    width: 100%;
+    min-width: 40px;
+    clear: both;
+}
+
+.corpo-cartao{
+    background-color: #554D4D;
+}
+
+.price{
+    background-color: #2D2A2B;
+}
+
+.titulo-card{
+    background-color: #FF7B2A;
+}
+
+.desconto{
+    color: #509333;
+}
+
+.teste {
+    font-size: small;
+    border: 1px solid #FF7B2A;
+    border-radius: 16px;
+    width: 40px;
+}
+
+.btn-check:checked + .btn {
+    border-color: #FF7B2A;
+    background-color: #FF7B2A;
+}
+
+.btn-check:hover + .btn {
+    border-color: #FF7B2A;
+    background-color: #FF7B2A;
+}
+
+.buy-button{
+    background-color: #FF7B2A;
+    width: 150px;
+}
+
+.buy-button:hover{
+    background-color: #ff7c2ac7;
+}
+a{
+    text-decoration: none;
+}
